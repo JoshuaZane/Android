@@ -1,0 +1,2 @@
+\\telmar\users\jg025\My Documents\Projects\Feedr\Feedr\bin\Debug\Feedr.dll
+\\telmar\users\jg025\My Documents\Projects\Feedr\packages\Parse.1.5.5\lib\MonoAndroid\Parse.Android.dll
